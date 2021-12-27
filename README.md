@@ -1,4 +1,6 @@
 # MoneyCalculator
 ## Ingeniería del Software II
 Programa de conversión de monedas. 
-Esta aplicación ha sido creada siguiendo el modelo MVC tratado en clase.
+<br />Esta aplicación ha sido creada siguiendo el modelo tratado en clase.
+<br />
+<br />MVC architectural style.
